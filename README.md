@@ -1,7 +1,10 @@
 ### Hi there, I'm Oleg - aka Legabog 👋
 <hr/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legabog&layout=compact)
+
 <hr/>
+
 ### Stack of technologies:
 
 
@@ -28,6 +31,7 @@
 [<img align="left" alt="Sql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Heroku" width="35px" src="https://hackbrightacademy.com/content/uploads/2017/03/heroku.png" />][heroku]
 [<img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebase]
+
 <hr/>
 <!--
 **Legabog/Legabog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
