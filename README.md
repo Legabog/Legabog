@@ -1,4 +1,7 @@
 ### Hi there, I'm Oleg - aka Legabog 👋
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legabog&layout=compact)
+
 ### Stack of technologies:
 
 
