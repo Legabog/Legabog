@@ -74,6 +74,3 @@ Here are some ideas to get you started:
 [sql]: https://github.com/topics/sql
 [heroku]: https://www.heroku.com/
 [firebase]: https://github.com/topics/firebase
-
-![](https://komarev.com/ghpvc/?username=Legabog)
-
