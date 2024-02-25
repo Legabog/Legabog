@@ -1,4 +1,4 @@
-### Hi there, I'm Oleg
+### Hi there 👋, my name is Oleg.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legabog&layout=compact)
 
