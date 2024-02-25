@@ -1,9 +1,8 @@
 ## Hi there 👋, my name is Oleg.
-
-I'm a frontend developer, who take great care in the experience, architecture, and code quality of the things I build.
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-stats
+<!--START_SECTION-->
+### I'm a frontend developer, who take great care in the experience, architecture, and code
+### quality of the things I build.
+![Slice 1](https://github.com/Legabog/Legabog/assets/44378669/4f3f2823-5e39-43cb-b26e-2ba92aa5f470)
+<!--END_SECTION-->
+![Codewars](https://github.r2v.ch/codewars?user=Legabog&name=true&hide_clan=true&stroke=%23b362ff&theme=light)
 ![Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Legabog&layout=compact)
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
