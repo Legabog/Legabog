@@ -6,4 +6,4 @@
 > ☄️[Check my web portfolio,](https://lega-portfolio.vercel.app/)
 > 📱[mini-app](https://t.me/Legab_bot)
 > 
-> <img align="absmiddle" alt=":electron:" class="emoji" src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="20" height="20"> Working with React, Typescript, Next.js
+> <img align="absmiddle" alt=":electron:" class="emoji" src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="16" height="16"> Working with React, Typescript, Next.js
