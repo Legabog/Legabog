@@ -7,5 +7,3 @@
 > ☄️[Check my web portfolio,](https://lega-portfolio.vercel.app/)
 > 📱[mini-app](https://t.me/Legab_bot)
 > * <img align="absmiddle" alt=":electron:" class="emoji" src="https://github.githubassets.com/assets/electron-fef70acde3b4.png" width="16" height="16"> Working with React, Typescript, Next.js
-> 
-[![Oleg Dosov profile views](https://u8views.com/api/v1/github/profiles/44378669/views/day-week-month-total-count.svg)](https://u8views.com/github/Legabog)
